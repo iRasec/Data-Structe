@@ -1,0 +1,17 @@
+void main()
+{
+    int *num;
+
+    printf("Numero: ");
+    num = malloc(sizeof(int));
+    scanf("%d", num);
+
+    if(perfeito(num)== 1)
+    {
+        printf("Numero %d eh perfeito.", *num);
+    }
+    else
+    {
+        printf("Numero %d nao eh perfeito.", *num);
+    }
+}
