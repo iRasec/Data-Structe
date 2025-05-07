@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1745880633 source:c:\users\rasec\documents\github\data-structe\recursividade\exercicio006\main.c
+	<stdio.h>
+	<stdlib.h>
+
